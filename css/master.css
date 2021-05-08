@@ -67,6 +67,9 @@
     position: relative;
     padding: 0 25px;
 }
+#container-master>nav>ul li i{
+    font-size: 25px;
+}
 #container-master>nav>ul li select{
     color: white;
     background-color:rgb(59, 56, 56);
